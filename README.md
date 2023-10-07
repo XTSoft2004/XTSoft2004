@@ -23,6 +23,14 @@
   </a>
 </p>
 
+# 💻Tech Stack
+
+<p align="center">
+  <img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png" width="48" height="48"/>
+  <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="48" height="48"/>
+  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="48" height="48"/>
+</p>
+
 ## Skills:
 
 <p align="center">
