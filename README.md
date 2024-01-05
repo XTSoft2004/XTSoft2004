@@ -6,19 +6,19 @@
 
 ## 📫 How to reach me:
 
-[![Join the chat at https://gitter.im/tranxuantruong420/Github-Profile-Tutorial](https://badges.gitter.im/tranxuantruong420/Github-Profile-Tutorial.svg)](https://gitter.im/tranxuantruong420/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/XTSoft2004/Github-Profile-Tutorial](https://badges.gitter.im/XTSoft2004/Github-Profile-Tutorial.svg)](https://gitter.im/XTSoft2004/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 <p align="center">
   <a href="https://www.facebook.com/xuantruong.war.clone.code/" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
-  <a href="https://github.com/tranxuantruong420" alt="Github">
+  <a href="https://github.com/XTSoft2004" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
   <a href="https://www.instagram.com/xuantruongcoder1/" alt="Github">
     <img src="https://img.icons8.com/?size=256&id=Xy10Jcu1L2Su&format=png"  width="48" height="48"/>
   </a> 
-  <a href="mailto:tranxuantruong420@gmail.com" alt="Email">
+  <a href="mailto:XTSoft2004@gmail.com" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
 </p>
@@ -44,8 +44,8 @@
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranxuantruong420&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="tranxuantruong420" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=tranxuantruong420&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="tranxuantruong420" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XTSoft2004&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="XTSoft2004" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=XTSoft2004&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="XTSoft2004" width="100%"/>
     </td>
     <td>
       <p align="center"> 
