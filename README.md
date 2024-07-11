@@ -1,5 +1,5 @@
 <img align="left" width="400" src="https://i.giphy.com/media/e5EcjjJx3dCFi/giphy.webp">
-<h1 align="center">Hi 👋, I'm Xuân Trường</h1>
+<h1 align="center">Hi 👋, I'm Trần Xuân Trường</h1>
 <p align="center">
   <h3 align="center">Trường mới tập code</h3>
 </p>
