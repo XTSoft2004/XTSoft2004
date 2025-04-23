@@ -30,7 +30,6 @@
   <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="48" height="48"/>
   <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="48" height="48"/>
   <img src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" width="48" height="48"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg1MndL-Xp1JcnqaB0YOqTp6zDjrwYyGKsPA&s" width="48" height="48"/>
 </p>
 
 ## Skills:
