@@ -29,6 +29,8 @@
   <img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png" width="48" height="48"/>
   <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="48" height="48"/>
   <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="48" height="48"/>
+  <img src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" width="48" height="48"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg1MndL-Xp1JcnqaB0YOqTp6zDjrwYyGKsPA&s" width="48" height="48"/>
 </p>
 
 ## Skills:
@@ -44,8 +46,8 @@
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XTSoft2004&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="XTSoft2004" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=XTSoft2004&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="XTSoft2004" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XTSoft2004&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%language%​used" alt="XTSoft2004" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=XTSoft2004&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Github%name%activity" alt="XTSoft2004" width="100%"/>
     </td>
     <td>
       <p align="center"> 
