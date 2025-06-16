@@ -56,8 +56,8 @@
 <table style="width:100%;">
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XTSoft2004&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top language used" alt="Top Langs" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=XTSoft2004&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Github Activity" alt="GitHub Stats" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XTSoft2004&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%language%used" alt="Top Langs" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=XTSoft2004&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Github%Activity" alt="GitHub Stats" width="100%"/>
     </td>
     <td width="50%" align="center">
       <img src="https://i.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.webp" alt="dev gif" width="90%"/>
