@@ -45,8 +45,8 @@
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XTSoft2004&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%language%​used" alt="XTSoft2004" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=XTSoft2004&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Github%name%activity" alt="XTSoft2004" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XTSoft2004&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top language ​used" alt="XTSoft2004" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=XTSoft2004&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Github name activity" alt="XTSoft2004" width="100%"/>
     </td>
     <td>
       <p align="center"> 
